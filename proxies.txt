@@ -1,1 +1,1 @@
-Paste here webshare proxies 
+I’ve used Webshare proxies in the code. When you download the proxy list from Webshare, it includes the username and password at the end. Place the proxies in the specified file and update the credentials in the code. Refer to the README file for guidance.

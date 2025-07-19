@@ -22,7 +22,7 @@ A Node.js web scraper for extracting property listings from Gumtree with proxy r
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gumtree-scraper.git
+git clone https://github.com/ockayy/gumtree-scraper.git
 cd gumtree-scraper
 ```
 

@@ -178,4 +178,4 @@ gumtree-scraper/
 
 ## ⚠️ Disclaimer
 
-This tool is for educational and research purposes only. Users are responsible for ensuring their use complies with Gumtree's Terms of Service and applicable laws. The authors are not responsible for any misuse of this software.
+This tool is for educational and research purposes only. Users are responsible for ensuring their use complies with Gumtree's Terms of Service and applicable laws. The author is not responsible for any misuse of this software.

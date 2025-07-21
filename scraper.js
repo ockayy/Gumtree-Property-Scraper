@@ -24,8 +24,8 @@ class GumtreeScraper {
         };
         
         // UPDATE THIS URL FOR EACH SCRAPING SESSION
-        this.mainUrl = 'https://www.gumtree.com/flats-houses/commercial/commercial-property-to-rent/uk/manchester/page5?seller_type=private'; // <-- PASTE YOUR MAIN GUMTREE LINK HERE
-        this.secondUrl = 'https://www.gumtree.com/flats-houses/commercial/commercial-property-to-rent/uk/manchester/page{n}?seller_type=private'; // <-- PASTE YOUR SECOND PAGE URL HERE (use page{n} for page number)        
+        this.mainUrl = ''; // <-- PASTE YOUR MAIN GUMTREE LINK HERE
+        this.secondUrl = ' '; // <-- PASTE YOUR SECOND PAGE URL HERE (use page{n} for page number)        
         
         // LOGIN CONFIGURATION
         this.loginConfig = {
@@ -1102,7 +1102,7 @@ try {
     async scrapeAllPages() {
         console.log('🎯 Starting comprehensive scraping...');
         
-        let pageNumber = 1;
+        let pageNumber = 2;
         let consecutiveFailures = 0;
         const maxConsecutiveFailures = 3;
         
